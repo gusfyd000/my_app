@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gusfyd000/my_app#readme",
   "dependencies": {
+    "ejs": "^2.5.3",
     "express": "^4.14.0"
   }
 }
